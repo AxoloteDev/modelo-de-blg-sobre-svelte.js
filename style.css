@@ -68,7 +68,7 @@ header {
 /* Navegação */
 
 nav {
-  height: 650px;
+  height: 100%;
   width: 100%;
   grid-area: n;
   background-color: var(--cor4);
