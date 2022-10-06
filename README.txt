@@ -1,6 +1,6 @@
 ---------------LINK PARA O SITE------------------
 
-
+https://modelo-de-blg-sobre-svelte-js.vercel.app/
 
 -------------------------------------------------
 
