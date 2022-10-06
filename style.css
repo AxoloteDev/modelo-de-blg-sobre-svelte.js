@@ -96,7 +96,7 @@ main {
 /* Rodapé */
 
 footer {
-  height: 100px;
+  height: 100%;
   background-color: var(--cor1);
   grid-area: f;
 }
