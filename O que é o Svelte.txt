@@ -1,0 +1,91 @@
+O que é o Svelte.JS?
+
+A nova Tendência entre os programadores
+
+ O Svelte.js diferente das tecnologias mais populares do mercado como o Vue.js,React.js e Angular não é um [1]Framework, 
+nem uma biblioteca e sim um compilador [2]front-end de JavaScript parecido com o Virtual [3]DOM o que a deixa com um tempo de execução muito
+mais rapido que as demias tecnologia. Ele foi criado por Rich Harris sendo mantido pela equipe principal do svelte ele é [4]open-source sobre a licença
+[5]MIT e todo seu código fonte está disponivel em um repositorio do [6]GitHub. Toda a documentação do Svelte.js está disponivel
+no 'site oficial' da tecnologia.
+
+Como o Svelte.js surgiu?
+
+  O svelte.js é uma tecnologia recente ainda tendo sua primeira versão lançada em 2016, a ideia de criar o svelte veio quando Rich Harris precisva 
+de uma alternativa mais leve e rapida para seus projeots de design gráfico do jornal [7]The New York Times. O svelte já passou por três versões
+diferentes sendo elas:
+
+. Svelte1 -  Feito com JavaScript e lançada em 29 de novembro de 2016;
+. Svelte2 -  Lançada em 19 de abril de 2018;
+. Svelte3 -  Re-escrito com TypeScript e lançada em 21 de abril de 2019 (versão mais recente).
+
+Como funciona o svelte.js?
+
+ Como já mencionado anteriormente o Svelte.js não é nem um [1]Framework, nem uma biblioteca ele é um compilador ou seja 
+diferente das outras tecnologias como o vue.js ou o react.js que o código é executado no navegador, com o Svelte isso não ocorre 
+já que ele pega os arquivos escrito em ".svelte" e compila eles para Vanilla Javascript (JavaScript puro) para depois executá-los no navegador
+o que melhora a velocidade de processamento já que o Js vanilla é lido muito mais rapido.
+
+Quais as vantagens de usalo?
+
+  Utilizar o Svelte em seus projetos diminui o tempo de produção e aumenta a qualidade do código já que o Svelte possui varias
+vantagens como:
+
+. Maior velocidade de execução por não ter virtual [3]DOM;
+. Sintaxe Simples;
+. Maior facilidade na leitura e organização do código já que o svelte trabalha com componentes;
+. Assim como os grandes [1]Frameworks o svelte também é reativo;
+. Menos código para ser escrito.
+
+Qual é a demanda do Svelte no mercado?
+
+ Atualmente o Svelte.js anda muito popular onde de acordo coma pesquisa do 'State of JavaScript' de 2020 o ranking dos [1]frameworks
+mais populares são:
+
+. Svelte: 89%;
+. React: 88%;
+. Vue: 85%.  
+
+ Além disso, por, mas que o svelte seja relativamente novo no mercado, as vagas de emprego relacionadas e ele não são incomuns
+só nos Estados Unidos temos mais de 420 vagas ( informações retiradas do linkedin).
+
+Quem usa o Svelte?
+
+ Varias marcas já aderiram o svelte.js algumas delas são:
+ 
+ . Apple;
+ . Bloomberg;
+ . Brave;
+ . Facebook;
+ . Ikea;
+ . Spotify;
+ . Entre varias outras.
+ 
+Onde eu Aprendo mais sobre o Svelte?
+ 
+  Caso tenha se interessado, basta acessar o site oficial do Svelte e seguir o tutorial disponível e caso queira, também 
+é possível ler a documentação completa além de um guia de primeiros passos e como instala-lo, tudo isso de forma gratuita.
+
+Conclusão
+
+ O svelte é uma ótima tecnologia, além de ter uma documentação toda em português ele assim como o vue.js é perfeito para os 
+iniciantes e apesar, de ainda sofrer muitas mudanças como, por exemplo o recém anuncio do beta do 'sveltekit' a pequena, porém crescente comunidade 
+do svelte ainda vai ter muito tempo no mercado.
+
+Referencias:
+
+- [1] - Framework: Um framework em desenvolvimento de software, é uma abstração que une códigos comuns entre vários projetos. 
+- [2] - Front-end: é o desenvolvimento da interface gráfica do usuário de um site, por meio do uso de HTML, CSS e JavaScript.
+- [3] - DOM: O Modelo de Documento por Objetos é uma convenção multiplataforma e independente de linguagem de programação.
+- [4] - Open-source: licença de código aberto no qual o direito autoral fornece o direito de estudar, modificar e distribuir o software de graça para qualquer um e para qualquer finalidade.
+- [5] - A licença MIT, também chamada de licença X ou de licença X11, é uma licença de programas de computadores, criada pelo Instituto de Tecnologia de Massachusetts.
+- [6] - GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+- [7] - The New York Times é um jornal diário estadunidense.
+
+Creditos: 
+
+- Texto criado por AxoloteDev -
+
+Informações retiradas dos sites: 
+
+- WikiPedia.com;
+- Coodesh.com.
